@@ -1,2 +1,3 @@
-# nova-iot-platform-3jub
+# Nova Iot Platform 3Jub
+
 A repository to test GitHub automation for issue management.
